@@ -1,0 +1,13 @@
+body {
+  background-color: #eef3f7;
+}
+
+table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#mensaje-agregar {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
